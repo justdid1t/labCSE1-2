@@ -1,7 +1,7 @@
 /*Problem: We need to read the records of N students that include name roll and mark.
-Then sort the on the basis of roll in ascending order.*/
+Then sort them on the basis of roll in ascending order.*/
 
-//approach: we can use adjacency list or class to store then apply bubble sort
+//approach: We can use an adjacency list or class to store and then apply bubble sort
 //Complexity: O(n^2)
 
 #include<bits/stdc++.h>
